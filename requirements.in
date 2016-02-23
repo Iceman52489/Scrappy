@@ -1,0 +1,5 @@
+# requirements.in
+pip-tools==1.6
+Scrapy==1.0.5
+beautifulsoup4==4.4.1
+scrapy-jsonrpc==0.3.0

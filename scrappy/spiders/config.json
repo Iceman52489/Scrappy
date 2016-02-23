@@ -1,0 +1,22 @@
+{
+	"StyleSeat": {
+		"items": {
+			"profession": "q",
+			"location": "loc",
+			"brand": "selected_brand",
+			"amex": "charge_enabled",
+			"page": "p"
+		},
+
+		"locations": [
+			"Hair Cut",
+			"Style",
+			"Barber",
+			"Braids",
+			"Weaves &amp; Extensions",
+			"Nails",
+			"Makeup",
+			"Color"
+		]
+	}
+}
